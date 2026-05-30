@@ -1,6 +1,6 @@
-exec(open('/home/claude/app_part1.py').read())
-exec(open('/home/claude/app_part2.py').read())
-exec(open('/home/claude/app_part3.py').read())
+exec(open('app_part1.py').read())
+exec(open('app_part2.py').read())
+exec(open('app_part3.py').read())
 
 # ── SIDEBAR ──────────────────────────────────────────────────────────
 with st.sidebar:
